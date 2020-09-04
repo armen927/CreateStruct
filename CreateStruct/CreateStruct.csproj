@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="D:\Documents\БАСО-04-19 Аветисян\CreateStruct\program 2.cs" Link="program 2.cs" />
+    <Compile Include="D:\Documents\БАСО-04-19 Аветисян\program 2.cs" Link="program 2.cs" />
+  </ItemGroup>
+
 </Project>

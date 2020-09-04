@@ -1,5 +1,5 @@
 ﻿using System;
-  namespace CreateStruct
+namespace CreateStruct
 {
 
   struct Person
